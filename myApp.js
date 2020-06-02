@@ -15,7 +15,7 @@
 // mongoose.connect(<Your URI>, { useNewUrlParser: true, useUnifiedTopology: true }); 
 
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://new_dbuser:m1yXy11g9JZFzW9L@cluster0-bjhr4.mongodb.net/test?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false });
+mongoose.connect('mongodb+srv://username:password@servername.mongodb.net/test?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false });
 
 /** # SCHEMAS and MODELS #
 /*  ====================== */
