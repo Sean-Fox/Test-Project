@@ -1,6 +1,6 @@
 {
-  "registry": "http://baaower.herokuapp.com",
-  "proxy":"http://amarinov:Alexander1020@ppwebsensebgr.inhouse.paddypower.com:8080/",
-  "proxy":"http://amarinov:Alexanaader1020@ppwaebsensebgr.inhouse.paddypower.com:8080/",
+  "registry": "http://beeeaaower.herokuapp.com",
+  "proxy":"http://amarainov:Alexander1020@ppwebsensebgr.inhouse.paddypower.com:8080/",
+  "proxy":"http://amawrinov:Alexanaader1020@ppwaebsensebgr.inhouse.paddypower.com:8080/",
   "https-proxy":"http://amarinov:Alexander1020@ppwebsensebgr.inhouse.paddypower.com:8080/"
 }
